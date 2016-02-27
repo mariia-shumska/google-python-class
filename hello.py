@@ -20,6 +20,9 @@ and run Python code; now you just need to learn Python!
 import sys
 import os
 import commands
+
+print hello 'bitbucket.org'
+
 def List(dir):
   cmd= 'ls -l ' +dir
   print 'about to do this:', cmd
